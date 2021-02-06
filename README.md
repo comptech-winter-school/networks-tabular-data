@@ -21,4 +21,4 @@ You can find `.py` files for openML autoML benchmark in folder `frameworks`. You
 # Results
 You can see table of results in [results.csv](https://github.com/comptech-winter-school/networks-tabular-data/blob/main/results/results.csv). There are results from original paper for comparison.
 
-# Conclusion
+# Conclusions
