@@ -25,3 +25,16 @@ You can see table of results in [results.csv](https://github.com/comptech-winter
 
 # Conclusions
 NODE has four TOP-1 results. TabNet has good results for datasets with big number of samples. And it could be good idea to optimize hyperparameters of TabNet to achieve better performance. We think it is possible to say that neural networks have performance near to the best practices in autoML for tabular data.
+
+# Team
+## Team leads:
+Степан Деревянченко
+Антон Морозов
+## Experimentators:
+Радеев Никита
+Васильев Максим
+Котлова Анна
+Королев Алексей
+Сайк Никита
+Наздрюхин Александр
+Минкевич Мария
