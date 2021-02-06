@@ -16,7 +16,7 @@ We used implementations of the architectures:
   
   
 # How to use this repository
-You can find '.py' files for openML autoML benchmark in folder 'frameworks'. You can put them in folder 'frameworks' of benchmark and use like default benchmark frameworks.
+You can find `.py` files for openML autoML benchmark in folder `frameworks`. You can put them in folder `frameworks` of benchmark and use like default benchmark frameworks.
 
 # Results
 You can see table of results in [results.csv](). There are results from original paper for comparison.
