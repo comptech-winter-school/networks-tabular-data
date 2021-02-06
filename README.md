@@ -24,4 +24,4 @@ Also you can view python notebooks from google colab in folder `colab_notebooks`
 You can see table of results in [results.csv](https://github.com/comptech-winter-school/networks-tabular-data/blob/main/results/results.csv). There are results from original paper for comparison.
 
 # Conclusions
-NODE has 4 datasets with TOP-1 metric. TabNet has good numbers for datasets with big number of samples. And it could be good idea to optimize hyperparameters of TabNet to achieve better performance. We think it is possible to say that neural networks have performance near to the best practices in autoML for tabular data.
+NODE has four TOP-1 results. TabNet has good results for datasets with big number of samples. And it could be good idea to optimize hyperparameters of TabNet to achieve better performance. We think it is possible to say that neural networks have performance near to the best practices in autoML for tabular data.
