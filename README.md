@@ -9,7 +9,7 @@
 # Experiment description
 We used implementations of the architectures:
 - SNN
-- NODE - 
+- NODE on PyTorch - https://github.com/manujosephv/pytorch_tabular 
 - TabNet on PyTorch - https://github.com/dreamquark-ai/tabnet
 
    All architectures were wrapped in sklearn Model classes for better compatibility with benchmark.
