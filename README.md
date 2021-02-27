@@ -3,12 +3,12 @@
   
 # Architectures used in work
 - SNN (Self-Normalizing Neural Networks) (paper: [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515))
-- NODE(Neural Oblivious Decision Ensembles) (paper: [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://arxiv.org/pdf/1909.06312.pdf))
+- NODE (Neural Oblivious Decision Ensembles) (paper: [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://arxiv.org/pdf/1909.06312.pdf))
 - TabNet (paper: [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442))
 
 # Experiment description
 We used implementations of the architectures:
-- SNN
+- SNN - naive architectures used and it is necessary to find better SNN architectures. 
 - NODE on PyTorch - https://github.com/manujosephv/pytorch_tabular 
 - TabNet on PyTorch - https://github.com/dreamquark-ai/tabnet
 
@@ -28,6 +28,6 @@ NODE has four TOP-1 results. TabNet has good results for datasets with big numbe
 
 # Team
 ## Team leads
-Степан Деревянченко, Антон Морозов
+Stepan Derevyanchenko, Anton Morozov
 ## Experimenters
-Радеев Никита, Васильев Максим, Котлова Анна, Королев Алексей, Сайк Никита, Наздрюхин Александр, Минкевич Мария
+Radeev Nikita, Vasiliev Maxim, Kotlova Anna, Korolev Alexey, Sayk Nikita, Nazdryukhin Alexander, Minkevich Maria 
